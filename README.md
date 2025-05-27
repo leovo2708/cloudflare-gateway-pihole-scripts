@@ -1,4 +1,4 @@
-# Cloudflare Gateway Pi-hole Scripts (CGPS)
+# Cloudflare Gateway Pi-hole Scripts (CGPS) 
 
 ![Cloudflare Gateway Analytics screenshot showing a thousand blocked DNS requests](.github/images/gateway_analytics.png)
 
